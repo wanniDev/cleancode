@@ -8,4 +8,12 @@ public class PageData {
   public boolean hasAttribute(String test) {
     return true;
   }
+
+  public String getContent() {
+    return null;
+  }
+
+  public void setContent(String toString) {
+
+  }
 }
