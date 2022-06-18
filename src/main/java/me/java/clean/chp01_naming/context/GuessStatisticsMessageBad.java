@@ -1,4 +1,4 @@
-package me.java.clean.naming.context;
+package me.java.clean.chp01_naming.context;
 
 import static org.graalvm.compiler.debug.TTY.*;
 

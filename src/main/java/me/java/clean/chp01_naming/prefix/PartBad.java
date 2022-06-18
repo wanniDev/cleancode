@@ -1,4 +1,4 @@
-package me.java.clean.naming.prefix;
+package me.java.clean.chp01_naming.prefix;
 
 public class PartBad {
 	String m_dsc;
